@@ -36,7 +36,7 @@ PS229 Cyber Assistant is a conversational security tool designed to:
 
 ## Related
 
-- [PS232 Security Hardening Tool](https://github.com/scar8969/PS232_secutity-hard) — the companion hardening engine this assistant talks to
+- [PS232 Security Hardening Tool](https://github.com/scar8969/security-hardening-tool) — the companion hardening engine this assistant talks to
 
 ## License
 
